@@ -34,6 +34,7 @@ nothing added to commit but untracked files present (use "git add" to track)
 magdalenajaner@MacBook-Pro-de-Magdalena my-git-project % vim
 
 secrets.yml
+node_modules/
 ~                                                                                         
 ~                                                                                         
 ~                                                                                         
