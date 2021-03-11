@@ -1,4 +1,6 @@
 print ('Hi there');
 
+print('Hi from another day')
 
-Hello
+def hi_there():
+    print(hi)
